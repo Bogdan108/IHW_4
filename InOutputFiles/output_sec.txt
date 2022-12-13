@@ -1,0 +1,21 @@
+In the assembled catalog there are books:
+Book with id:10050
+Book with id:6559
+Book with id:3413
+Book with id:5797
+Book with id:5902
+Book with id:11835
+Book with id:13162
+Book with id:11014
+Book with id:10026
+Book with id:10023
+Book with id:854
+Book with id:3534
+Book with id:8162
+Book with id:5244
+Book with id:11109
+Book with id:3514
+Book with id:10927
+Book with id:14286
+Book with id:13560
+Book with id:11740

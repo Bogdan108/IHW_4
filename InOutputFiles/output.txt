@@ -1,0 +1,3 @@
+In the assembled catalog there are books:
+Book with id:9
+Book with id:8
